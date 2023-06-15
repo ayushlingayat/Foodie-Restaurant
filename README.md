@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hello Everyonr I am Ayush Shyam Lingayat</h1>
+<h1 align="center">Hello Everyone I am Ayush Shyam Lingayat</h1>
 <h3 align="center">I Am a Front End Developer from India</h3>
 <h3 align="center">I have designed this foodie restaurant website using HTML, CSS, JavaScript, and Bootstrap</h3>
 <h3 align="center">Hope you like this website :)</h3>
