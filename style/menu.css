@@ -1,0 +1,44 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.margin-left-home{
+    margin-left: 140px;
+}
+
+.p-content{
+    /* border:2px solid red;  */
+    width:290px;
+    color:rgb(91, 91, 91);
+    font-size: 1.0rem;
+    font-weight: 400;
+}
+
+.p-black{
+    color: black;
+    font-size: 1.2rem;
+    font-family: Arial;
+    font-weight: 400;
+}
+
+
+.image-container {
+    display: inline-block;
+  }
+  
+  .image-container img {
+    width: 300px; 
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .image-container:hover img {
+    transform: scale(1.1); 
+    cursor: pointer;
+  }
+
+  .gap-a{
+    gap:100px;
+  }
