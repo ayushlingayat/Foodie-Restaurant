@@ -10,21 +10,27 @@
 <h3 align="center">I designed this foodie restaurant website using HTML, CSS, JavaScript, and Bootstrap</h3>
 
 ## Website Preview
-#### Portfolio Page
-
-
-
-
+####Home Page
 
 <img src="Home.png" width="900">
 
+####About us Page
+
 <img src="About_us.png" width="900">
+
+####Reviews Page
 
 <img src="Reviews.png" width="900">
 
+####Contact us Page
+
 <img src="Contact_us.png" width="900">
 
+####Vegiterian Menu
+
 <img src="Vegiterian_menu.png" width="900">
+
+####Non-Vegiterian Menu
 
 <img src="Non-vegiterian_Menu.png" width="900">
 
@@ -63,6 +69,4 @@
 
 
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
