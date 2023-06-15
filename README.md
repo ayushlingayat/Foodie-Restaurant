@@ -14,23 +14,23 @@
 
 <img src="Home.png" width="900">
 
-####About us Page
+## About us Page
 
 <img src="About_us.png" width="900">
 
-####Reviews Page
+## Reviews Page
 
 <img src="Reviews.png" width="900">
 
-####Contact us Page
+## Contact us Page
 
 <img src="Contact_us.png" width="900">
 
-####Vegiterian Menu
+## Vegiterian Menu
 
 <img src="Vegiterian_menu.png" width="900">
 
-####Non-Vegiterian Menu
+## Non-Vegiterian Menu
 
 <img src="Non-vegiterian_Menu.png" width="900">
 
