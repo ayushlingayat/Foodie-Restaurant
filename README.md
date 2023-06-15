@@ -10,7 +10,8 @@
 <h3 align="center">I designed this foodie restaurant website using HTML, CSS, JavaScript, and Bootstrap</h3>
 
 ## Website Preview
-####Home Page
+
+## Home Page
 
 <img src="Home.png" width="900">
 
